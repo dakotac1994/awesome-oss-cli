@@ -121,7 +121,7 @@ HTTP clients, DNS tools, load testing, and packet inspection.
 
 - **[aria2](https://github.com/aria2/aria2)** — Lightweight multi-protocol download utility. [`GPL-2.0-only`](https://github.com/aria2/aria2) · [website](https://aria2.github.io/)
 - **[curl](https://github.com/curl/curl)** — Command-line tool for transferring data with URLs. [`curl`](https://github.com/curl/curl/blob/HEAD/COPYING) · [website](https://curl.se/)
-- **[dog](https://github.com/ogham/dog)** — Command-line DNS client with a modern UX. [`EUPL-1.2`](https://github.com/ogham/dog) · [website](https://dns.lookup.dog/)
+- **[dog](https://github.com/ogham/dog)** — Command-line DNS client with a modern UX. [`EUPL-1.2`](https://github.com/ogham/dog)
 - **[httpie](https://github.com/httpie/cli)** — Human-friendly HTTP client for APIs. [`BSD-3-Clause`](https://github.com/httpie/cli) · [website](https://httpie.io)
 - **[mosh](https://github.com/mobile-shell/mosh)** — Mobile shell: roaming, intermittent-connectivity SSH replacement. [`GPL-3.0-only`](https://github.com/mobile-shell/mosh) · [website](https://mosh.org)
 - **[mtr](https://github.com/traviscross/mtr)** — Network diagnostic combining ping and traceroute. [`GPL-2.0-only`](https://github.com/traviscross/mtr) · [website](https://www.bitwizard.nl/mtr/)
