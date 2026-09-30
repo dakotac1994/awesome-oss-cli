@@ -283,7 +283,7 @@
   {
     "name": "dog",
     "repo_url": "https://github.com/ogham/dog",
-    "homepage": "https://dns.lookup.dog/",
+    "homepage": "",
     "description": "Command-line DNS client with a modern UX",
     "license": "EUPL-1.2",
     "category": "networking",
