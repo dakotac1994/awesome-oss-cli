@@ -1,0 +1,1797 @@
+[
+  {
+    "name": "abduco",
+    "repo_url": "https://github.com/martanne/abduco",
+    "homepage": "",
+    "description": "Session attach/detach tool (like dtach)",
+    "license": "ISC",
+    "category": "terminal-multiplexers",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 988,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/martanne/abduco",
+    "status": "active"
+  },
+  {
+    "name": "aria2",
+    "repo_url": "https://github.com/aria2/aria2",
+    "homepage": "https://aria2.github.io/",
+    "description": "Lightweight multi-protocol download utility",
+    "license": "GPL-2.0-only",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 42863,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/aria2/aria2",
+    "status": "active"
+  },
+  {
+    "name": "atuin",
+    "repo_url": "https://github.com/atuinsh/atuin",
+    "homepage": "https://atuin.sh",
+    "description": "Magical shell history with sync, search, and stats",
+    "license": "MIT",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 31863,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/atuinsh/atuin/blob/HEAD/LICENSE",
+    "status": "active"
+  },
+  {
+    "name": "bandwhich",
+    "repo_url": "https://github.com/imsnif/bandwhich",
+    "homepage": "",
+    "description": "Terminal bandwidth utilization monitor",
+    "license": "MIT",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 11992,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/imsnif/bandwhich",
+    "status": "active"
+  },
+  {
+    "name": "bat",
+    "repo_url": "https://github.com/sharkdp/bat",
+    "homepage": "",
+    "description": "cat clone with syntax highlighting and git integration",
+    "license": "Apache-2.0",
+    "category": "text-processing",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 60612,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/sharkdp/bat",
+    "status": "active"
+  },
+  {
+    "name": "bottom",
+    "repo_url": "https://github.com/ClementTsang/bottom",
+    "homepage": "https://bottom.pages.dev",
+    "description": "Customizable graphical process and system monitor (btm)",
+    "license": "MIT",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 14074,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ClementTsang/bottom",
+    "status": "active"
+  },
+  {
+    "name": "broot",
+    "repo_url": "https://github.com/Canop/broot",
+    "homepage": "https://dystroy.org/broot",
+    "description": "Fuzzy file navigator and directory tree explorer",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 13031,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/Canop/broot",
+    "status": "active"
+  },
+  {
+    "name": "btop",
+    "repo_url": "https://github.com/aristocratos/btop",
+    "homepage": "",
+    "description": "Resource monitor with a game-inspired theme",
+    "license": "Apache-2.0",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 34806,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/aristocratos/btop",
+    "status": "active"
+  },
+  {
+    "name": "byobu",
+    "repo_url": "https://github.com/dustinkirkland/byobu",
+    "homepage": "https://byobu.org",
+    "description": "User-friendly profile and window manager for tmux/screen",
+    "license": "GPL-3.0-only",
+    "category": "terminal-multiplexers",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 1720,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/dustinkirkland/byobu",
+    "status": "active"
+  },
+  {
+    "name": "chafa",
+    "repo_url": "https://github.com/hpjansson/chafa",
+    "homepage": "https://hpjansson.org/chafa/",
+    "description": "Terminal graphics: images and video as text/sixels",
+    "license": "LGPL-3.0-only",
+    "category": "media",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 5288,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/hpjansson/chafa",
+    "status": "active"
+  },
+  {
+    "name": "choose",
+    "repo_url": "https://github.com/theryangeary/choose",
+    "homepage": "",
+    "description": "Human-friendly cut/awk alternative for field selection",
+    "license": "GPL-3.0-only",
+    "category": "text-processing",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 2285,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/theryangeary/choose",
+    "status": "active"
+  },
+  {
+    "name": "csvkit",
+    "repo_url": "https://github.com/wireservice/csvkit",
+    "homepage": "https://csvkit.readthedocs.io",
+    "description": "Suite of utilities for working with CSV files",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6414,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/wireservice/csvkit",
+    "status": "active"
+  },
+  {
+    "name": "curl",
+    "repo_url": "https://github.com/curl/curl",
+    "homepage": "https://curl.se/",
+    "description": "Command-line tool for transferring data with URLs",
+    "license": "curl",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 42978,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/curl/curl/blob/HEAD/COPYING",
+    "status": "active"
+  },
+  {
+    "name": "dasel",
+    "repo_url": "https://github.com/TomWright/dasel",
+    "homepage": "https://daseldocs.tomwright.me",
+    "description": "Query and modify JSON, YAML, TOML, XML, and CSV",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 8044,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/TomWright/dasel",
+    "status": "active"
+  },
+  {
+    "name": "delta",
+    "repo_url": "https://github.com/dandavison/delta",
+    "homepage": "https://dandavison.github.io/delta/",
+    "description": "Syntax-highlighting pager for git and diff output",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 32386,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/dandavison/delta",
+    "status": "active"
+  },
+  {
+    "name": "direnv",
+    "repo_url": "https://github.com/direnv/direnv",
+    "homepage": "https://direnv.net",
+    "description": "Per-directory environment variable management",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 15472,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/direnv/direnv",
+    "status": "active"
+  },
+  {
+    "name": "dog",
+    "repo_url": "https://github.com/ogham/dog",
+    "homepage": "https://dns.lookup.dog/",
+    "description": "Command-line DNS client with a modern UX",
+    "license": "EUPL-1.2",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 6693,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ogham/dog",
+    "status": "active"
+  },
+  {
+    "name": "doggo",
+    "repo_url": "https://github.com/mr-karan/doggo",
+    "homepage": "https://doggo.mrkaran.dev/",
+    "description": "User-friendly command-line DNS client",
+    "license": "GPL-3.0-only",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 4498,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/mr-karan/doggo",
+    "status": "active"
+  },
+  {
+    "name": "dua-cli",
+    "repo_url": "https://github.com/Byron/dua-cli",
+    "homepage": "",
+    "description": "Interactive disk-usage analyzer with delete support",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6314,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/Byron/dua-cli",
+    "status": "active"
+  },
+  {
+    "name": "duckdb",
+    "repo_url": "https://github.com/duckdb/duckdb",
+    "homepage": "https://www.duckdb.org",
+    "description": "In-process analytical SQL database with a CLI",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 41822,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/duckdb/duckdb",
+    "status": "active"
+  },
+  {
+    "name": "duf",
+    "repo_url": "https://github.com/muesli/duf",
+    "homepage": "",
+    "description": "Disk usage/free utility with a polished UI",
+    "license": "MIT",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 15329,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/muesli/duf/blob/HEAD/LICENSE",
+    "status": "active"
+  },
+  {
+    "name": "dust",
+    "repo_url": "https://github.com/bootandy/dust",
+    "homepage": "",
+    "description": "Intuitive visual du: disk usage at a glance",
+    "license": "Apache-2.0",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 12439,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/bootandy/dust",
+    "status": "active"
+  },
+  {
+    "name": "dvtm",
+    "repo_url": "https://github.com/martanne/dvtm",
+    "homepage": "",
+    "description": "Tiling window manager for the console",
+    "license": "MIT",
+    "category": "terminal-multiplexers",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 964,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/martanne/dvtm",
+    "status": "active"
+  },
+  {
+    "name": "elvish",
+    "repo_url": "https://github.com/elves/elvish",
+    "homepage": "https://elv.sh/",
+    "description": "Expressive functional shell with structured data",
+    "license": "BSD-2-Clause",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6383,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/elves/elvish",
+    "status": "active"
+  },
+  {
+    "name": "entr",
+    "repo_url": "https://github.com/eradman/entr",
+    "homepage": "https://eradman.com/entrproject/",
+    "description": "Run arbitrary commands when files change",
+    "license": "ISC",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 5691,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/eradman/entr/blob/HEAD/LICENSE",
+    "status": "active"
+  },
+  {
+    "name": "eza",
+    "repo_url": "https://github.com/eza-community/eza",
+    "homepage": "https://eza.rocks",
+    "description": "Modern replacement for ls with colors and git integration",
+    "license": "EUPL-1.2",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 23422,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/eza-community/eza",
+    "status": "active"
+  },
+  {
+    "name": "fd",
+    "repo_url": "https://github.com/sharkdp/fd",
+    "homepage": "",
+    "description": "Simple, fast alternative to find",
+    "license": "Apache-2.0",
+    "category": "search-find",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 44599,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/sharkdp/fd",
+    "status": "active"
+  },
+  {
+    "name": "ffmpeg",
+    "repo_url": "https://github.com/FFmpeg/FFmpeg",
+    "homepage": "https://ffmpeg.org/",
+    "description": "Complete solution to record, convert, and stream media",
+    "license": "LGPL-2.1-or-later",
+    "category": "media",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 64664,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/FFmpeg/FFmpeg/blob/HEAD/LICENSE.md",
+    "status": "active"
+  },
+  {
+    "name": "fish",
+    "repo_url": "https://github.com/fish-shell/fish-shell",
+    "homepage": "https://fishshell.com",
+    "description": "User-friendly interactive command-line shell",
+    "license": "GPL-2.0-only",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 34245,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/fish-shell/fish-shell/blob/HEAD/COPYING",
+    "status": "active"
+  },
+  {
+    "name": "fx",
+    "repo_url": "https://github.com/antonmedv/fx",
+    "homepage": "https://fx.wtf",
+    "description": "Terminal JSON viewer with interactive exploration",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 20645,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/antonmedv/fx",
+    "status": "active"
+  },
+  {
+    "name": "fzf",
+    "repo_url": "https://github.com/junegunn/fzf",
+    "homepage": "https://junegunn.github.io/fzf/",
+    "description": "General-purpose fuzzy finder for the command line",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 83319,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/junegunn/fzf",
+    "status": "active"
+  },
+  {
+    "name": "gh",
+    "repo_url": "https://github.com/cli/cli",
+    "homepage": "https://cli.github.com",
+    "description": "GitHub's official command-line tool",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 46466,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/cli/cli",
+    "status": "active"
+  },
+  {
+    "name": "git-absorb",
+    "repo_url": "https://github.com/tummychow/git-absorb",
+    "homepage": "",
+    "description": "Automatically absorb staged changes into fixup commits",
+    "license": "BSD-3-Clause",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 5735,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/tummychow/git-absorb",
+    "status": "active"
+  },
+  {
+    "name": "git-extras",
+    "repo_url": "https://github.com/tj/git-extras",
+    "homepage": "",
+    "description": "Extra git commands for everyday workflow",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 18118,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/tj/git-extras",
+    "status": "active"
+  },
+  {
+    "name": "gitu",
+    "repo_url": "https://github.com/altsem/gitu",
+    "homepage": "",
+    "description": "Magit-inspired TUI git client",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 2921,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/altsem/gitu",
+    "status": "active"
+  },
+  {
+    "name": "gitui",
+    "repo_url": "https://github.com/gitui-org/gitui",
+    "homepage": "",
+    "description": "Blazing-fast terminal UI for git written in Rust",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 22538,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/gitui-org/gitui",
+    "status": "active"
+  },
+  {
+    "name": "glances",
+    "repo_url": "https://github.com/nicolargo/glances",
+    "homepage": "https://nicolargo.github.io/glances/",
+    "description": "Cross-platform system monitoring tool (CLI and web)",
+    "license": "LGPL-3.0-only",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 33709,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/nicolargo/glances/blob/HEAD/COPYING",
+    "status": "active"
+  },
+  {
+    "name": "glow",
+    "repo_url": "https://github.com/charmbracelet/glow",
+    "homepage": "",
+    "description": "Render markdown beautifully in the terminal",
+    "license": "MIT",
+    "category": "text-processing",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 27511,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/charmbracelet/glow",
+    "status": "active"
+  },
+  {
+    "name": "gping",
+    "repo_url": "https://github.com/orf/gping",
+    "homepage": "",
+    "description": "Ping with a live TUI graph",
+    "license": "MIT",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 12697,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/orf/gping",
+    "status": "active"
+  },
+  {
+    "name": "gum",
+    "repo_url": "https://github.com/charmbracelet/gum",
+    "homepage": "",
+    "description": "Glamorous shell scripts: prompts, spinners, and TUIs",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 24445,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/charmbracelet/gum",
+    "status": "active"
+  },
+  {
+    "name": "helix",
+    "repo_url": "https://github.com/helix-editor/helix",
+    "homepage": "https://helix-editor.com",
+    "description": "Modal text editor with built-in LSP and tree-sitter",
+    "license": "MPL-2.0",
+    "category": "editors",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 46392,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/helix-editor/helix",
+    "status": "active"
+  },
+  {
+    "name": "htop",
+    "repo_url": "https://github.com/htop-dev/htop",
+    "homepage": "https://htop.dev/",
+    "description": "Interactive process viewer",
+    "license": "GPL-2.0-or-later",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 8359,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/htop-dev/htop",
+    "status": "active"
+  },
+  {
+    "name": "httpie",
+    "repo_url": "https://github.com/httpie/cli",
+    "homepage": "https://httpie.io",
+    "description": "Human-friendly HTTP client for APIs",
+    "license": "BSD-3-Clause",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 38598,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/httpie/cli",
+    "status": "active"
+  },
+  {
+    "name": "hyperfine",
+    "repo_url": "https://github.com/sharkdp/hyperfine",
+    "homepage": "",
+    "description": "Command-line benchmarking tool",
+    "license": "Apache-2.0",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 28928,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/sharkdp/hyperfine",
+    "status": "active"
+  },
+  {
+    "name": "imagemagick",
+    "repo_url": "https://github.com/ImageMagick/ImageMagick",
+    "homepage": "https://imagemagick.org",
+    "description": "Create, edit, compose, and convert images from the CLI",
+    "license": "ImageMagick",
+    "category": "media",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 17557,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ImageMagick/ImageMagick/blob/HEAD/LICENSE",
+    "status": "active"
+  },
+  {
+    "name": "jq",
+    "repo_url": "https://github.com/jqlang/jq",
+    "homepage": "https://jqlang.org",
+    "description": "Lightweight command-line JSON processor",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 35730,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/jqlang/jq/blob/HEAD/COPYING",
+    "status": "active"
+  },
+  {
+    "name": "just",
+    "repo_url": "https://github.com/casey/just",
+    "homepage": "https://just.systems",
+    "description": "Handy command runner (make-like, without the pain)",
+    "license": "CC0-1.0",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 36081,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/casey/just",
+    "status": "active"
+  },
+  {
+    "name": "kakoune",
+    "repo_url": "https://github.com/mawww/kakoune",
+    "homepage": "https://kakoune.org",
+    "description": "Modal editor with multiple selections as the core interaction",
+    "license": "Unlicense",
+    "category": "editors",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 11079,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/mawww/kakoune",
+    "status": "active"
+  },
+  {
+    "name": "lazygit",
+    "repo_url": "https://github.com/jesseduffield/lazygit",
+    "homepage": "",
+    "description": "Simple terminal UI for git commands",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 82790,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/jesseduffield/lazygit",
+    "status": "active"
+  },
+  {
+    "name": "lf",
+    "repo_url": "https://github.com/gokcehan/lf",
+    "homepage": "",
+    "description": "Minimal terminal file manager written in Go",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 9523,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/gokcehan/lf",
+    "status": "active"
+  },
+  {
+    "name": "mdcat",
+    "repo_url": "https://github.com/swsnr/mdcat",
+    "homepage": "",
+    "description": "Fancy cat for Markdown with syntax highlighting",
+    "license": "MPL-2.0",
+    "category": "text-processing",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 2412,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/swsnr/mdcat",
+    "status": "active"
+  },
+  {
+    "name": "micro",
+    "repo_url": "https://github.com/micro-editor/micro",
+    "homepage": "https://micro-editor.github.io",
+    "description": "Modern, intuitive terminal text editor",
+    "license": "MIT",
+    "category": "editors",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 29657,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/micro-editor/micro",
+    "status": "active"
+  },
+  {
+    "name": "miller",
+    "repo_url": "https://github.com/johnkerl/miller",
+    "homepage": "https://miller.readthedocs.io",
+    "description": "Like awk/sed/cut/join for CSV, TSV, and JSON (mlr)",
+    "license": "BSD-2-Clause",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 10031,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/johnkerl/miller/blob/HEAD/LICENSE.txt",
+    "status": "active"
+  },
+  {
+    "name": "mods",
+    "repo_url": "https://github.com/charmbracelet/mods",
+    "homepage": "",
+    "description": "AI on the command line (stdin-powered LLM pipelines)",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 4520,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/charmbracelet/mods",
+    "status": "active"
+  },
+  {
+    "name": "mosh",
+    "repo_url": "https://github.com/mobile-shell/mosh",
+    "homepage": "https://mosh.org",
+    "description": "Mobile shell: roaming, intermittent-connectivity SSH replacement",
+    "license": "GPL-3.0-only",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 14527,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/mobile-shell/mosh",
+    "status": "active"
+  },
+  {
+    "name": "mtr",
+    "repo_url": "https://github.com/traviscross/mtr",
+    "homepage": "https://www.bitwizard.nl/mtr/",
+    "description": "Network diagnostic combining ping and traceroute",
+    "license": "GPL-2.0-only",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 3357,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/traviscross/mtr",
+    "status": "active"
+  },
+  {
+    "name": "navi",
+    "repo_url": "https://github.com/denisidoro/navi",
+    "homepage": "",
+    "description": "Interactive cheatsheet tool for the command line",
+    "license": "Apache-2.0",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 17696,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/denisidoro/navi",
+    "status": "active"
+  },
+  {
+    "name": "neovim",
+    "repo_url": "https://github.com/neovim/neovim",
+    "homepage": "https://neovim.io",
+    "description": "Hyperextensible Vim-based text editor",
+    "license": "Apache-2.0",
+    "category": "editors",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 102683,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/neovim/neovim/blob/HEAD/LICENSE.txt",
+    "status": "active"
+  },
+  {
+    "name": "nnn",
+    "repo_url": "https://github.com/jarun/nnn",
+    "homepage": "",
+    "description": "Tiny, fast, full-featured terminal file manager",
+    "license": "BSD-2-Clause",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 22026,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/jarun/nnn",
+    "status": "active"
+  },
+  {
+    "name": "nushell",
+    "repo_url": "https://github.com/nushell/nushell",
+    "homepage": "https://www.nushell.sh/",
+    "description": "Modern structured-data shell with typed pipelines",
+    "license": "MIT",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 40595,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/nushell/nushell",
+    "status": "active"
+  },
+  {
+    "name": "nvitop",
+    "repo_url": "https://github.com/XuehaiPan/nvitop",
+    "homepage": "https://nvitop.readthedocs.io",
+    "description": "Interactive NVIDIA GPU process viewer and monitor",
+    "license": "Apache-2.0",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 7173,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/XuehaiPan/nvitop",
+    "status": "active"
+  },
+  {
+    "name": "nvtop",
+    "repo_url": "https://github.com/Syllo/nvtop",
+    "homepage": "",
+    "description": "GPU and accelerator process monitor (htop-like)",
+    "license": "GPL-3.0-only",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux"
+    ],
+    "stars": 11036,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/Syllo/nvtop/blob/HEAD/COPYING",
+    "status": "active"
+  },
+  {
+    "name": "oh-my-zsh",
+    "repo_url": "https://github.com/ohmyzsh/ohmyzsh",
+    "homepage": "https://ohmyz.sh",
+    "description": "Community-driven framework for managing zsh configuration",
+    "license": "MIT",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 189998,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ohmyzsh/ohmyzsh",
+    "status": "active"
+  },
+  {
+    "name": "oha",
+    "repo_url": "https://github.com/hatoo/oha",
+    "homepage": "",
+    "description": "HTTP load generator inspired by hey",
+    "license": "MIT",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 10572,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/hatoo/oha",
+    "status": "active"
+  },
+  {
+    "name": "onefetch",
+    "repo_url": "https://github.com/o2sh/onefetch",
+    "homepage": "https://onefetch.dev",
+    "description": "Neofetch-style git repository summary",
+    "license": "MIT",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 12059,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/o2sh/onefetch",
+    "status": "active"
+  },
+  {
+    "name": "pandoc",
+    "repo_url": "https://github.com/jgm/pandoc",
+    "homepage": "https://pandoc.org",
+    "description": "Universal document converter (markdown, HTML, LaTeX, ...)",
+    "license": "GPL-2.0-only",
+    "category": "text-processing",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 46458,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/jgm/pandoc",
+    "status": "active"
+  },
+  {
+    "name": "powerlevel10k",
+    "repo_url": "https://github.com/romkatv/powerlevel10k",
+    "homepage": "",
+    "description": "Fast, flexible zsh prompt theme",
+    "license": "MIT",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 55169,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/romkatv/powerlevel10k",
+    "status": "active"
+  },
+  {
+    "name": "procs",
+    "repo_url": "https://github.com/dalance/procs",
+    "homepage": "",
+    "description": "Modern replacement for ps",
+    "license": "MIT",
+    "category": "system-monitoring",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6186,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/dalance/procs",
+    "status": "active"
+  },
+  {
+    "name": "ranger",
+    "repo_url": "https://github.com/ranger/ranger",
+    "homepage": "https://ranger.fm",
+    "description": "Vim-inspired console file manager with previews",
+    "license": "GPL-3.0-only",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 17413,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ranger/ranger",
+    "status": "active"
+  },
+  {
+    "name": "ripgrep",
+    "repo_url": "https://github.com/BurntSushi/ripgrep",
+    "homepage": "",
+    "description": "Extremely fast recursive grep alternative (rg)",
+    "license": "Unlicense",
+    "category": "search-find",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 68733,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/BurntSushi/ripgrep",
+    "status": "active"
+  },
+  {
+    "name": "ripgrep-all",
+    "repo_url": "https://github.com/phiresky/ripgrep-all",
+    "homepage": "",
+    "description": "ripgrep that also searches PDFs, archives, and docs (rga)",
+    "license": "AGPL-3.0-only",
+    "category": "search-find",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 9864,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/phiresky/ripgrep-all/blob/HEAD/LICENSE.md",
+    "status": "active"
+  },
+  {
+    "name": "sd",
+    "repo_url": "https://github.com/chmln/sd",
+    "homepage": "",
+    "description": "Intuitive find-and-replace CLI (sed alternative)",
+    "license": "MIT",
+    "category": "text-processing",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 7376,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/chmln/sd",
+    "status": "active"
+  },
+  {
+    "name": "skate",
+    "repo_url": "https://github.com/charmbracelet/skate",
+    "homepage": "",
+    "description": "Personal key-value store with sync",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 1843,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/charmbracelet/skate",
+    "status": "active"
+  },
+  {
+    "name": "skim",
+    "repo_url": "https://github.com/skim-rs/skim",
+    "homepage": "",
+    "description": "Fuzzy finder in Rust (fzf-like)",
+    "license": "MIT",
+    "category": "search-find",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6974,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/skim-rs/skim",
+    "status": "active"
+  },
+  {
+    "name": "soft-serve",
+    "repo_url": "https://github.com/charmbracelet/soft-serve",
+    "homepage": "",
+    "description": "Self-hostable Git server with a TUI over SSH",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 7236,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/charmbracelet/soft-serve",
+    "status": "active"
+  },
+  {
+    "name": "sqlite",
+    "repo_url": "https://github.com/sqlite/sqlite",
+    "homepage": "https://sqlite.org",
+    "description": "Self-contained SQL database engine with an interactive CLI shell",
+    "license": "Public domain",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 10569,
+    "last_commit_verified": false,
+    "oss_verified": false,
+    "source_url": "",
+    "status": "active"
+  },
+  {
+    "name": "starship",
+    "repo_url": "https://github.com/starship/starship",
+    "homepage": "https://starship.rs",
+    "description": "Minimal, fast, customizable cross-shell prompt",
+    "license": "ISC",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 60099,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/starship/starship",
+    "status": "active"
+  },
+  {
+    "name": "taskwarrior",
+    "repo_url": "https://github.com/GothenburgBitFactory/taskwarrior",
+    "homepage": "https://taskwarrior.org",
+    "description": "Command-line task and todo manager",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6091,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/GothenburgBitFactory/taskwarrior",
+    "status": "active"
+  },
+  {
+    "name": "tealdeer",
+    "repo_url": "https://github.com/tealdeer-rs/tealdeer",
+    "homepage": "https://docs.tealdeer.org",
+    "description": "Fast tldr client with syntax-highlighted cheatsheets",
+    "license": "Apache-2.0",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 6558,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/tealdeer-rs/tealdeer",
+    "status": "active"
+  },
+  {
+    "name": "termshark",
+    "repo_url": "https://github.com/gcla/termshark",
+    "homepage": "",
+    "description": "Terminal UI for tshark (Wireshark for the console)",
+    "license": "MIT",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 10028,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/gcla/termshark",
+    "status": "active"
+  },
+  {
+    "name": "the_silver_searcher",
+    "repo_url": "https://github.com/ggreer/the_silver_searcher",
+    "homepage": "https://geoff.greer.fm/ag/",
+    "description": "Fast code-searching tool (ag)",
+    "license": "Apache-2.0",
+    "category": "search-find",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 27131,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ggreer/the_silver_searcher",
+    "status": "active"
+  },
+  {
+    "name": "tig",
+    "repo_url": "https://github.com/jonas/tig",
+    "homepage": "https://jonas.github.io/tig/",
+    "description": "Text-mode interface for git",
+    "license": "GPL-2.0-only",
+    "category": "git-vcs",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 13353,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/jonas/tig",
+    "status": "active"
+  },
+  {
+    "name": "timg",
+    "repo_url": "https://github.com/hzeller/timg",
+    "homepage": "",
+    "description": "Terminal image and video viewer",
+    "license": "GPL-2.0-only",
+    "category": "media",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 2768,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/hzeller/timg",
+    "status": "active"
+  },
+  {
+    "name": "tldr",
+    "repo_url": "https://github.com/tldr-pages/tldr",
+    "homepage": "https://tldr.sh",
+    "description": "Community-maintained cheatsheets; official reference Python client",
+    "license": "CC-BY-4.0",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 63788,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/tldr-pages/tldr/blob/HEAD/LICENSE.md",
+    "status": "active"
+  },
+  {
+    "name": "tmux",
+    "repo_url": "https://github.com/tmux/tmux",
+    "homepage": "",
+    "description": "Terminal multiplexer: windows, panes, and session persistence",
+    "license": "ISC",
+    "category": "terminal-multiplexers",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 49580,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/tmux/tmux",
+    "status": "active"
+  },
+  {
+    "name": "tokei",
+    "repo_url": "https://github.com/XAMPPRocky/tokei",
+    "homepage": "",
+    "description": "Count code lines, comments, and blanks blazingly fast",
+    "license": "MIT OR Apache-2.0",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 14959,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/XAMPPRocky/tokei/blob/HEAD/LICENCE-MIT",
+    "status": "active"
+  },
+  {
+    "name": "trippy",
+    "repo_url": "https://github.com/fujiapple852/trippy",
+    "homepage": "https://trippy.rs",
+    "description": "Network diagnostic tool with a polished TUI (trip)",
+    "license": "Apache-2.0",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 7970,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/fujiapple852/trippy",
+    "status": "active"
+  },
+  {
+    "name": "ugrep",
+    "repo_url": "https://github.com/Genivia/ugrep",
+    "homepage": "https://ugrep.com",
+    "description": "Ultra-fast grep with fuzzy and boolean search",
+    "license": "BSD-3-Clause",
+    "category": "search-find",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 3302,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/Genivia/ugrep",
+    "status": "active"
+  },
+  {
+    "name": "usql",
+    "repo_url": "https://github.com/xo/usql",
+    "homepage": "",
+    "description": "Universal command-line interface for SQL databases",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 10132,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/xo/usql",
+    "status": "active"
+  },
+  {
+    "name": "vhs",
+    "repo_url": "https://github.com/charmbracelet/vhs",
+    "homepage": "",
+    "description": "Generate terminal GIFs and videos from code",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 21028,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/charmbracelet/vhs",
+    "status": "active"
+  },
+  {
+    "name": "visidata",
+    "repo_url": "https://github.com/saulpw/visidata",
+    "homepage": "https://visidata.org",
+    "description": "Terminal spreadsheet for exploring tabular data",
+    "license": "GPL-3.0-only",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 9315,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/saulpw/visidata",
+    "status": "active"
+  },
+  {
+    "name": "viu",
+    "repo_url": "https://github.com/atanunq/viu",
+    "homepage": "",
+    "description": "Terminal image viewer with iTerm/Kitty graphics support",
+    "license": "MIT",
+    "category": "media",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 3285,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/atanunq/viu",
+    "status": "active"
+  },
+  {
+    "name": "wrk",
+    "repo_url": "https://github.com/wg/wrk",
+    "homepage": "",
+    "description": "Modern HTTP benchmarking tool",
+    "license": "Apache-2.0",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 40416,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/wg/wrk/blob/HEAD/LICENSE",
+    "status": "active"
+  },
+  {
+    "name": "xh",
+    "repo_url": "https://github.com/ducaale/xh",
+    "homepage": "",
+    "description": "Friendly fast HTTP client reimplemented in Rust",
+    "license": "MIT",
+    "category": "networking",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 8110,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ducaale/xh",
+    "status": "active"
+  },
+  {
+    "name": "xplr",
+    "repo_url": "https://github.com/sayanarijit/xplr",
+    "homepage": "https://xplr.dev",
+    "description": "Hackable terminal file explorer with Lua plugins",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 4835,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/sayanarijit/xplr",
+    "status": "active"
+  },
+  {
+    "name": "yazi",
+    "repo_url": "https://github.com/sxyazi/yazi",
+    "homepage": "https://yazi-rs.github.io",
+    "description": "Blazing-fast terminal file manager with image previews",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 42512,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/sxyazi/yazi",
+    "status": "active"
+  },
+  {
+    "name": "yq",
+    "repo_url": "https://github.com/mikefarah/yq",
+    "homepage": "https://mikefarah.gitbook.io/yq/",
+    "description": "Portable command-line YAML, JSON, and XML processor",
+    "license": "MIT",
+    "category": "data",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 16033,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/mikefarah/yq",
+    "status": "active"
+  },
+  {
+    "name": "yt-dlp",
+    "repo_url": "https://github.com/yt-dlp/yt-dlp",
+    "homepage": "",
+    "description": "Feature-rich command-line video/audio downloader",
+    "license": "Unlicense",
+    "category": "media",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 194481,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/yt-dlp/yt-dlp",
+    "status": "active"
+  },
+  {
+    "name": "zellij",
+    "repo_url": "https://github.com/zellij-org/zellij",
+    "homepage": "https://zellij.dev",
+    "description": "Modern terminal workspace with panes, tabs, and plugins",
+    "license": "MIT",
+    "category": "terminal-multiplexers",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 35598,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/zellij-org/zellij",
+    "status": "active"
+  },
+  {
+    "name": "zoxide",
+    "repo_url": "https://github.com/ajeetdsouza/zoxide",
+    "homepage": "",
+    "description": "Smarter cd: frecency-based directory jumper",
+    "license": "MIT",
+    "category": "file-navigation",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 39779,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/ajeetdsouza/zoxide",
+    "status": "active"
+  },
+  {
+    "name": "zsh-autosuggestions",
+    "repo_url": "https://github.com/zsh-users/zsh-autosuggestions",
+    "homepage": "",
+    "description": "Fish-like autosuggestions for zsh",
+    "license": "MIT",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 36100,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/zsh-users/zsh-autosuggestions",
+    "status": "active"
+  },
+  {
+    "name": "zsh-syntax-highlighting",
+    "repo_url": "https://github.com/zsh-users/zsh-syntax-highlighting",
+    "homepage": "",
+    "description": "Fish-like syntax highlighting for zsh",
+    "license": "BSD-3-Clause",
+    "category": "shells-prompts",
+    "platforms": [
+      "linux",
+      "macos"
+    ],
+    "stars": 23016,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/zsh-users/zsh-syntax-highlighting",
+    "status": "active"
+  }
+]

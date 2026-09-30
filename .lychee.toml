@@ -1,0 +1,8 @@
+# lychee link-checker config
+# Pre-emptive excludes for sites known to block automated checks.
+# NOTE: entries here are regexes — use domain-bare patterns to cover subdomains.
+exclude = [
+]
+# Be lenient with rate-limited hosts; retry before failing.
+max_retries = 3
+timeout = 30
