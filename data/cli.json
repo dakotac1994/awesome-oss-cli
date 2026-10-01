@@ -759,6 +759,24 @@
     "status": "active"
   },
   {
+    "name": "Hyperconsciousness",
+    "repo_url": "https://github.com/louis030195/hyperconsciousness",
+    "homepage": "",
+    "description": "Developer-alpha CLI for encrypted, append-only notes and knowledge",
+    "license": "MIT",
+    "category": "productivity",
+    "platforms": [
+      "linux",
+      "macos",
+      "windows"
+    ],
+    "stars": 2,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/louis030195/hyperconsciousness/blob/main/LICENSE",
+    "status": "active"
+  },
+  {
     "name": "hyperfine",
     "repo_url": "https://github.com/sharkdp/hyperfine",
     "homepage": "",
