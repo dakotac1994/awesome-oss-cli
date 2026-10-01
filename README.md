@@ -1,8 +1,8 @@
 # Awesome OSS CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of **102 open-source command-line tools** — shells, file managers, search, git TUIs, monitoring, networking, data wrangling, and more. Every entry links to its source repository, and every license was checked against the project's official license file or metadata on 2026-09-30.
+A curated list of **103 open-source command-line tools** — shells, file managers, search, git TUIs, monitoring, networking, data wrangling, and more. Every entry links to its source repository, and every license was checked against the project's official license file or metadata on 2026-09-30.
 
-- ✅ **101/102** licenses verified from official sources
+- ✅ **102/103** licenses verified from official sources
 - 🖥️ Linux-first catalog; most tools also build on macOS and Windows — see the data file for per-tool platforms
 - 📦 Machine-readable data in [`data/cli.json`](data/cli.json)
 
@@ -19,7 +19,7 @@ A curated list of **102 open-source command-line tools** — shells, file manage
 - [🗄️ Data Tools](#data-tools) (10)
 - [📝 Text Processing](#text-processing) (6)
 - [🎬 Media](#media) (6)
-- [⚡ Productivity & Misc](#productivity--misc) (14)
+- [⚡ Productivity & Misc](#productivity--misc) (15)
 - [Notable exclusions](#notable-exclusions)
 - [Related](#related)
 - [Contributing](#contributing)
@@ -175,6 +175,7 @@ Tasks, notes, timers, and everyday terminal utilities.
 - **[direnv](https://github.com/direnv/direnv)** — Per-directory environment variable management. [`MIT`](https://github.com/direnv/direnv) · [website](https://direnv.net)
 - **[entr](https://github.com/eradman/entr)** — Run arbitrary commands when files change. [`ISC`](https://github.com/eradman/entr/blob/HEAD/LICENSE) · [website](https://eradman.com/entrproject/)
 - **[gum](https://github.com/charmbracelet/gum)** — Glamorous shell scripts: prompts, spinners, and TUIs. [`MIT`](https://github.com/charmbracelet/gum)
+- **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** - Developer-alpha CLI for encrypted, append-only notes and knowledge. [`MIT`](https://github.com/louis030195/hyperconsciousness/blob/main/LICENSE)
 - **[hyperfine](https://github.com/sharkdp/hyperfine)** — Command-line benchmarking tool. [`Apache-2.0`](https://github.com/sharkdp/hyperfine)
 - **[just](https://github.com/casey/just)** — Handy command runner (make-like, without the pain). [`CC0-1.0`](https://github.com/casey/just) · [website](https://just.systems)
 - **[mods](https://github.com/charmbracelet/mods)** — AI on the command line (stdin-powered LLM pipelines). [`MIT`](https://github.com/charmbracelet/mods)
