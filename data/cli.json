@@ -848,6 +848,22 @@
     "status": "active"
   },
   {
+    "name": "kilobat",
+    "repo_url": "https://github.com/seifip/kilobat-cli",
+    "homepage": "https://kilobat.app/agents/",
+    "description": "macOS network monitoring and diagnostics from the terminal",
+    "license": "GPL-3.0-only",
+    "category": "system-monitoring",
+    "platforms": [
+      "macos"
+    ],
+    "stars": 1,
+    "last_commit_verified": true,
+    "oss_verified": true,
+    "source_url": "https://github.com/seifip/kilobat-cli/blob/main/LICENSE",
+    "status": "active"
+  },
+  {
     "name": "lazygit",
     "repo_url": "https://github.com/jesseduffield/lazygit",
     "homepage": "",
