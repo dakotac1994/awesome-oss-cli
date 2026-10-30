@@ -1,8 +1,8 @@
 # Awesome OSS CLI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of **102 open-source command-line tools** — shells, file managers, search, git TUIs, monitoring, networking, data wrangling, and more. Every entry links to its source repository, and every license was checked against the project's official license file or metadata on 2026-09-30.
+A curated list of **103 open-source command-line tools** — shells, file managers, search, git TUIs, monitoring, networking, data wrangling, and more. Every entry links to its source repository; licenses were checked against official sources.
 
-- ✅ **101/102** licenses verified from official sources
+- ✅ **102/103** licenses verified from official sources
 - 🖥️ Linux-first catalog; most tools also build on macOS and Windows — see the data file for per-tool platforms
 - 📦 Machine-readable data in [`data/cli.json`](data/cli.json)
 
@@ -14,7 +14,7 @@ A curated list of **102 open-source command-line tools** — shells, file manage
 - [🔍 Search & Find](#search--find) (6)
 - [🌿 Git & Version Control](#git--version-control) (9)
 - [✏️ Terminal Editors](#terminal-editors) (4)
-- [📊 System Monitoring](#system-monitoring) (11)
+- [📊 System Monitoring](#system-monitoring) (12)
 - [🌐 Networking & HTTP](#networking--http) (11)
 - [🗄️ Data Tools](#data-tools) (10)
 - [📝 Text Processing](#text-processing) (6)
@@ -111,6 +111,7 @@ Processes, resources, disks, and network usage at a glance.
 - **[glances](https://github.com/nicolargo/glances)** — Cross-platform system monitoring tool (CLI and web). [`LGPL-3.0-only`](https://github.com/nicolargo/glances/blob/HEAD/COPYING) · [website](https://nicolargo.github.io/glances/)
 - **[gping](https://github.com/orf/gping)** — Ping with a live TUI graph. [`MIT`](https://github.com/orf/gping)
 - **[htop](https://github.com/htop-dev/htop)** — Interactive process viewer. [`GPL-2.0-or-later`](https://github.com/htop-dev/htop) · [website](https://htop.dev/)
+- **[kilobat](https://github.com/seifip/kilobat-cli)** — macOS network monitoring and diagnostics from the terminal. [`GPL-3.0-only`](https://github.com/seifip/kilobat-cli/blob/main/LICENSE)
 - **[nvitop](https://github.com/XuehaiPan/nvitop)** — Interactive NVIDIA GPU process viewer and monitor. [`Apache-2.0`](https://github.com/XuehaiPan/nvitop) · [website](https://nvitop.readthedocs.io)
 - **[nvtop](https://github.com/Syllo/nvtop)** — GPU and accelerator process monitor (htop-like). [`GPL-3.0-only`](https://github.com/Syllo/nvtop/blob/HEAD/COPYING)
 - **[procs](https://github.com/dalance/procs)** — Modern replacement for ps. [`MIT`](https://github.com/dalance/procs)
